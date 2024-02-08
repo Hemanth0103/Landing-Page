@@ -1,2 +1,2 @@
 # Landing-Page
-Landing page done for the internship for OctanetServices
+Landing page done for the internship of Octanet Private Limited
